@@ -2,17 +2,17 @@
 ✨ Welcome to the ultra-animated, visually explosive GitHub profile of Shantanu Yadav! ✨
 -->
 
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2200&pause=600&color=36BCF7&width=800&lines=Hi%2C+I'm+Shantanu+Yadav!;Full-stack+Developer+%7C+IoT+Innovator+%7C+Blockchain+Explorer;Let's+build+the+future+of+tech+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<!-- Animated Profile Image with Glowing Effect (using shields.io as fallback border) -->
-<p align="center">
-  <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/hero.gif?raw=true" width="220" alt="Animated Spinner" />
-  <br>
-  <img src="./github.png" alt="Shantanu Yadav" width="160" height="160" style="border-radius:50%;border:8px solid #36BCF7;box-shadow:0 0 40px #36BCF7;"/>
-</p>
+<!-- Side-by-side Profile Image and Animated Typing Header using Table Layout for GitHub Markdown Support -->
+<table>
+  <tr>
+    <td width="240" align="center" valign="top">
+      <img src="./github.png" alt="Shantanu Yadav" width="210" height="210" style="border-radius:50%;border:10px solid #36BCF7;box-shadow:0 0 50px #36BCF7;"/>
+    </td>
+    <td valign="middle">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2200&pause=600&color=36BCF7&width=600&lines=Hi%2C+I'm+Shantanu+Yadav!;Full-stack+Developer+%7C+IoT+Innovator+%7C+Blockchain+Explorer;Let's+build+the+future+of+tech+%F0%9F%9A%80" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
 <!-- Colorful Coding Banner GIF -->
 <p align="center">
@@ -159,9 +159,9 @@ Building a cloud infrastructure platform inspired by AWS EC2.<br>
   <img src="https://github-readme-stats.vercel.app/api?username=yadavsharn&show_icons=true&theme=algolia&hide_border=true" height="170" />
   <img src="https://streak-stats.demolab.com?user=yadavsharn&theme=algolia&hide_border=true" height="170"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yadavsharn&theme=github-compact" alt="Activity Graph" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsharn&layout=compact&theme=algolia&hide_border=true" height="160"/>
 </p>
