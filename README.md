@@ -12,21 +12,21 @@
 
   <!-- Line 1 -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=36BCF7&width=600&duration=2000&pause=1000&erase=true&repeat=true&lines=Hi%2C+I'm+Shantanu+Yadav!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=36BCF7&width=600&duration=2000&pause=3000&erase=true&repeat=true&lines=Hi%2C+I'm+Shantanu+Yadav!"
     alt="Typing Line 1"
     style="display: block; width: 100%; height: auto; margin-bottom: 10px;"
   />
 
   <!-- Line 2 -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=36BCF7&width=1000&duration=2000&pause=1000&erase=true&repeat=true&lines=Full-stack+Developer+%7C+IoT+Innovator+%7C+Blockchain+Explorer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=36BCF7&width=1000&duration=2000&pause=3000&erase=true&repeat=true&lines=Full-stack+Developer+%7C+IoT+Innovator+%7C+Blockchain+Explorer"
     alt="Typing Line 2"
     style="display: block; width: 100%; height: auto; margin-bottom: 10px;"
   />
 
   <!-- Line 3 -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=36BCF7&width=800&duration=2000&pause=1000&erase=true&repeat=true&lines=Let's+build+the+future+of+tech+%F0%9F%9A%80"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=36BCF7&width=800&duration=2000&pause=3000&erase=true&repeat=true&lines=Let's+build+the+future+of+tech+%F0%9F%9A%80"
     alt="Typing Line 3"
     style="display: block; width: 100%; height: auto;"
   />
