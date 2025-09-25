@@ -9,7 +9,7 @@
       <img src="./github.png" alt="Shantanu Yadav" width="210" height="210" style="border-radius:50%;border:10px solid #36BCF7;box-shadow:0 0 50px #36BCF7;"/>
     </td>
     <td valign="middle">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2200&pause=600&color=36BCF7&width=600&lines=Hi%2C+I'm+Shantanu+Yadav!;Full-stack+Developer+%7C+IoT+Innovator+%7C+Blockchain+Explorer;Let's+build+the+future+of+tech+%F0%9F%9A%80" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2200&pause=600&color=36BCF7&width=1200&lines=Hi%2C+I'm+Shantanu+Yadav!;Full-stack+Developer+%7C+IoT+Innovator+%7C+Blockchain+Explorer;Let's+build+the+future+of+tech+%F0%9F%9A%80" alt="Typing SVG" />
     </td>
   </tr>
 </table>
