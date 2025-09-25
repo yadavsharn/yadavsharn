@@ -6,11 +6,36 @@
 <table>
   <tr>
     <td width="240" align="center" valign="top">
-      <img src="./github.png" alt="Shantanu Yadav" width="210" height="210" style="border-radius:50%;border:10px solid #36BCF7;box-shadow:0 0 50px #36BCF7;"/>
+      <img src="./github.png" alt="Shantanu Yadav" width="210" height="260" style="border-radius:50%;border:10px solid #36BCF7;box-shadow:0 0 50px #36BCF7;"/>
     </td>
-    <td valign="middle">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2200&pause=600&color=36BCF7&width=1200&lines=Hi%2C+I'm+Shantanu+Yadav!;Full-stack+Developer+%7C+IoT+Innovator+%7C+Blockchain+Explorer;Let's+build+the+future+of+tech+%F0%9F%9A%80" alt="Typing SVG" />
-    </td>
+  <td valign="middle" align="center">
+
+  <!-- Line 1 -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=36BCF7&width=600&duration=2000&pause=1000&erase=true&repeat=true&lines=Hi%2C+I'm+Shantanu+Yadav!"
+    alt="Typing Line 1"
+    style="display: block; width: 100%; height: auto; margin-bottom: 10px;"
+  />
+
+  <!-- Line 2 -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=36BCF7&width=1000&duration=2000&pause=1000&erase=true&repeat=true&lines=Full-stack+Developer+%7C+IoT+Innovator+%7C+Blockchain+Explorer"
+    alt="Typing Line 2"
+    style="display: block; width: 100%; height: auto; margin-bottom: 10px;"
+  />
+
+  <!-- Line 3 -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=36BCF7&width=800&duration=2000&pause=1000&erase=true&repeat=true&lines=Let's+build+the+future+of+tech+%F0%9F%9A%80"
+    alt="Typing Line 3"
+    style="display: block; width: 100%; height: auto;"
+  />
+
+</td>
+
+
+
+
   </tr>
 </table>
 
