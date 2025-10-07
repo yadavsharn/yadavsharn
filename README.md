@@ -171,9 +171,9 @@ Building a cloud infrastructure platform inspired by AWS EC2.<br>
 
 <p align="center">
   <a href="https://github.com/yadavsharn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shantanu-yadav-4b7b4b1b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shantanuyadav.jhansi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yadavsharn.github.io"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yadavsharn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shantanuyadav117@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yadavsharn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
 </p>
 
 ---
@@ -203,9 +203,4 @@ Building a cloud infrastructure platform inspired by AWS EC2.<br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00F7AB&center=true&vCenter=true&width=650&lines=Let's+create%2C+innovate%2C+and+inspire+together!;Open+to+collaboration+and+new+opportunities!+%F0%9F%92%AF" />
 </p>
 
-<!--
-NOTES:
-- For best visual experience, all GIF links are taken from reliable sources (Giphy, raw.githubusercontent) to avoid 404 errors.
-- For a truly spinning profile image, create a custom GIF with your image and overlay a spinner, then upload it to your repo or an image host.
-- Add/remove GIFs to taste! 🚀
--->
+
