@@ -49,7 +49,10 @@
 ## 👋 Welcome!
 
 > **“Dream. Build. Innovate. Repeat.”**
-
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yadavsharn.yadavsharn" alt="Profile Views" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=F7C873&center=true&vCenter=true&width=900&lines=Full-stack+Web+Dev+%F0%9F%9A%80;IoT+and+Embedded+Systems+%F0%9F%9B%A0%EF%B8%8F;Blockchain+Enthusiast+%F0%9F%92%B0;Data+Science+%F0%9F%93%88;Always+Learning+%F0%9F%92%AF" />
 </p>
